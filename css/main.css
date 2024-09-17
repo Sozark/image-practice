@@ -2,3 +2,9 @@ body {
 background-color: rgb(139, 250, 139);
 font-family: "Inter", sans-serif;
 }
+
+h1, h2, h3 
+{
+    font-family: "Six Caps", sans-serif;
+    font-weight: 400;  
+}
