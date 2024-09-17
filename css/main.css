@@ -1,1 +1,4 @@
-/* Place CSS styles here */
+body {
+background-color: rgb(139, 250, 139);
+font-family: "Inter", sans-serif;
+}
